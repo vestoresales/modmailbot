@@ -13,4 +13,3 @@ client.on('message', message => {
 
 // THIS  MUST  BE  THIS  WAY
 client.login(process.env.BOT_TOKEN);//where BOT_TOKEN is the token of our bot 
-© 2019 GitHub, Inc.
